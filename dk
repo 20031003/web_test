@@ -1,0 +1,36 @@
+[33mcommit 456a2339e9f8cc23a9b68319306e57111af8b753[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: f3053bc 8b88e5f
+Author: 20031003 <bhu1003@gmail.com>
+Date:   Sat May 2 21:26:45 2026 +0900
+
+    Merge branch 'main' of https://github.com/20031003/web_test
+
+[33mcommit f3053bc90eff4b1f24cdf3abe1fbba4a6440fe52[m
+Author: 20031003 <bhu1003@gmail.com>
+Date:   Sat May 2 18:24:21 2026 +0900
+
+    SupaBase SDK를 사용
+
+[33mcommit 8b88e5f43ca036f64d15284167f0b2e52699991f[m
+Author: 20031003 <bhu1003@gmail.com>
+Date:   Sat May 2 18:24:21 2026 +0900
+
+    "edit 1"
+
+[33mcommit b3381d82d75dd8fd04587f75274dd60256dc8df4[m
+Author: 20031003 <bhu1003@gmail.com>
+Date:   Wed Apr 8 13:21:56 2026 +0900
+
+    first commit
+
+[33mcommit 18ce10de8063e436911e91290f168f7fb09ae55f[m
+Author: 20031003 <bhu1003@gmail.com>
+Date:   Wed Apr 8 13:21:16 2026 +0900
+
+    first commit
+
+[33mcommit 2a87aa34faa185d132d770b0cbfb6d2619cb9e9e[m
+Author: 20031003 <bhu1003@gmail.com>
+Date:   Wed Apr 8 13:17:44 2026 +0900
+
+    first commit
